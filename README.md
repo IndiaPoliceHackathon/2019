@@ -1,6 +1,6 @@
 Please follow the below instructions
 
-All individual teams have to create their own branches with name (ex: Table##) under the given repository 
+All individual teams should submit a pull request to create their own branches with name (ex: Table##) under the given repository 
 
 Every repository should contains
 
