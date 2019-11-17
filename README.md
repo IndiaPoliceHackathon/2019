@@ -1,4 +1,4 @@
-Please follow below the instructions
+Please follow the below instructions
 
 All individual teams create their own repository with table number, team and problem ststement name (ex: TNo2-TheMinorityReport-Beat)
 
