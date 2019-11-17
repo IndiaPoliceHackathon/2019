@@ -1,6 +1,6 @@
 Please follow below instructions
 
-All individual teams create their own repository with table number, team and problem ststement name (ex: TNo2-TheMinorityRport-Beat)
+All individual teams create their own repository with table number, team and problem ststement name (ex: TNo2-TheMinorityReport-Beat)
 
 Every repository should contains
 
