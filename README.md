@@ -1,6 +1,6 @@
 Please follow the below instructions
 
-All individual teams create their own repository with table number, team and problem ststement name (ex: KSP-IPH-2019/Table##)
+All individual teams create their own repository with table number, team and problem statement name (ex: KSP-IPH-2019/Table##)
 
 Every repository should contains
 
